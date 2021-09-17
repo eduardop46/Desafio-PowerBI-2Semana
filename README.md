@@ -31,3 +31,7 @@ Na tabela de idade e gênero foi necessário formatar apenas um valor de idade p
 
 ## Relacionamentos
   Não há relacionamento entre as tabelas
+  
+## Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiZjYzZDhmMDItODk5OS00NzY0LTlmMWQtYzY0NTlmNzMwNDJmIiwidCI6IjBiZGE4NTNlLWM3OTktNDFiYi1hNWRlLTJjOWJhNDFjNGQ1YiJ9
